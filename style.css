@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background-color: lightblue;
+}
+button{
+    border: none;
+    padding: 18px 10px;
+    font-size: 1.5em;
+    width: 180px;
+    margin: 10px;
+    border-radius: 15px;
+    color: maroon;
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    transition: 0.4s;
+    border: none;
+}
